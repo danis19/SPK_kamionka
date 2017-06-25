@@ -9,7 +9,7 @@ html{
     height: 16rem;
     background-color: black;
     color: white;
-    position: absolute
+    position: relative;
 }
 .club_name{
     color: white;
@@ -52,6 +52,35 @@ label {
 }
 span {
     color: red;
+}
+
+.nextmatch {
+    width: 94%;
+    height: 64vh;
+    background-color: red;
+    margin: 0 auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.nextinfo {
+    color: white;
+    border: 2px solid white;
+    font-size: 2.5rem;
+    text-align: center;
+    padding: 1rem;
+}
+.pzpn{
+    position: relative;
+    left: 36rem;
+    margin: 1rem;
+}
+.nextliga{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: -6rem;
+    font-size: 1.8rem;
 }
 
 
